@@ -10,15 +10,6 @@ h1 {
     text-align: center;
 }
 
-p {
-    color: #7d6608;
-    font-size: 21px;
-    margin: 25px 0;
-    padding: 15px;
-    background-color: white;
-    border-left: 5px solid #d68910;
-}
-
 img {
     width: 400px;
     max-width: 100%;
